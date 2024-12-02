@@ -6,7 +6,7 @@ variable "default_region" {
 
 variable "vpc_id" {
   description = "vpc ID"
-  type = "string"
+  type = string
   default = "vpc-04bb9a2caa4ead833"
 }
 
